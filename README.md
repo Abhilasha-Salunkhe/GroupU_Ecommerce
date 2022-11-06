@@ -9,3 +9,5 @@ Making Product list with the help of Database -Third Change
 Making Admin Table and User Table - Fourth change
 
 Making Flow Diagram for Project (ALL GROUP MEMBERS ARE INVOLVED) - Fifth Change
+
+Update customer class Differents methods are added-sixth change
